@@ -1,0 +1,36 @@
+main{
+    margin: 50px;
+    height:500px;
+}
+
+/* imagem */
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.imagem{
+    height: 100%;
+}
+
+/* botão */
+
+button{
+    height: 40px;
+    width: 70%;
+    border: solid #f85649 2px;
+    color: #f85649;
+    background-color: transparent;
+}
+
+button:hover{
+    background-color: #f85649;
+    color: white;
+}
+
+@media(max-width: 700px){
+
+    div{
+        clear: both;
+    }
+}
