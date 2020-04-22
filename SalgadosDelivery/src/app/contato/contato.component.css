@@ -1,0 +1,29 @@
+fa-icon{
+    color: #f85649;
+}
+
+button{
+    height: 40px;
+    width: 78%;
+    border: solid #f85649 2px;
+    color: #f85649;
+    background-color: transparent;
+    margin-right: 22px;
+}
+
+button:hover{
+    background-color: #f85649;
+    color: white;
+}
+
+.campo{
+    height: 40px;
+}
+
+@media(max-width:700px){
+
+    button{
+        background-color: violet;
+        margin-right: 10%;
+    }
+} 
