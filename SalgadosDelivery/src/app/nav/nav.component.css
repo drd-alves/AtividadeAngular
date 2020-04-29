@@ -1,8 +1,17 @@
 .texto{
     letter-spacing: .2rem;
     font-size: 14pt;
-    }
+}
 
-    .bg{
-        background-image: linear-gradient(to left, #2d2a45 , #17ceca );
-    }
+.bg{
+    background-image: linear-gradient(to left, #2d2a45 , #17ceca );
+}
+#logo{
+    width: 160px; 
+    height: 80px;
+}
+
+.nav{
+    position: relative;
+    width: 100%;
+}

@@ -4,11 +4,11 @@ fa-icon{
 
 button{
     height: 40px;
-    width: 78%;
+    width: 76.6%;
     border: solid #f85649 2px;
     color: #f85649;
     background-color: transparent;
-    margin-right: 22px;
+    margin-right: 27px;
 }
 
 button:hover{
